@@ -1,1 +1,6 @@
 This is my second project practice
+
+Feature-1 changes
+Added new development notes
+Testing branch workflow
+
